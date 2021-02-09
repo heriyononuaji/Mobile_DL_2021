@@ -1,0 +1,5 @@
+Bagian A dan B terjadi fatal error, dimana empty stirng pada bagian a ini tidak terdapat suatu integer yang digunakan untuk dioperasikan. 
+
+Selain itu pada bbagian b, tidak terdapat pembagi alias NULL. Namun berbeda halnya dengan bagian c yang sedikit berbeda dengan b, karena pada bagian ini tidak adanya fatal error yang dikarenakan adanya suatu value yang bernilai 0. 
+
+Solusi dari permasalahan ini, dapat menggunakan try catch dengan membuat form validator.

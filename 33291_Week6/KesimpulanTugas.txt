@@ -1,0 +1,11 @@
+KESIMPULAN TUGAS :
+
+Berdasarkan percobaan pada modul minggu ini, saya menjadi semakin mengerti tentang beberapa fitur yang ada pada android ini.
+
+Seperti pada halnya model app bagian A yang dapat menampilkan sebuah animasi berbentuk lingkaran yang akan muncul ketika kursor ditekan pada suatu bagian monitor android. Dan lingkaran tersebut dapat mengecil kembali dan berulang hingga aplikasi tersebut ditutup.
+Hal tersebut dapat dilakukan dengan sebuah fungsi yang onSizeChanges() yang dapat digunakan untuk mengubah sebuah ukuran dari suatu objek. Juga, setRadius() yang dapat digunakan untuk mengubah radius dari pada sebuah objek.
+
+Pada bagian B menggunakan beberapa gambar dari sebuah gambar kuda berjumlah 11. Dimana, dari sekumpulan gambar kuda yang identik sama tersebut dapat diolah sehingga menjadi sebuah animasi yang menarik berbentuk kuda berlari.
+
+Pada bagian C insight yang saya dapatkan cukup banyak. Dimana, pada bagian ini dapat menghasilkan suatu efek animasi gerak fisika. Animasi tersebut berupa Spring dan Fling, yang dimana ketika kita mengklik suatu objek yang bertuliskan "Spring" maka objek tersebut dapat bergerak turun-naik atau bergerak pada sumbu X, hal tersebut dipengaruhi oleh sebuah objek pada Android yakni DynamicAnimation.ROTATION_X. Selain itu, untuk mengatur kecepatan dari pada sebuah objek yang bergerak tersebut maka dapat dilakukan dengan menggunakan setStartVelocity().
+Selain itu, kita dapat menggunakan fungsi DynamicAnimation.Y yang digunakan untuk mengubah sebuah posisi objek yang bergerak memutar pada sumbu Y. Hal tersebut dapat terjadi secara berulang dan akan kembali lagi ke posisi awalnya dan secara terus meneru berulang ketika user mengklik objek tersebut. 

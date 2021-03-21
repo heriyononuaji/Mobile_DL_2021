@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UTS_33291_HeriyonoMohamadNuaji</string>
+    <string name="authorName">Name : Heriyono Mohamad Nuaji</string>
+    <string name="authorNim">NIM : 00000033291</string>
+    <string name="authorClass">Class : DL</string>
+    <string name="reference"><b>REFERENCES</b></string>
+    <string name="link1">1. MODUL WEEK 1 - 7</string>
+    <string name="link2">2. https://www.youtube.com/watch?v=lF5m4o_CuNg</string>
+    <string name="link3">3. https://www.youtube.com/watch?v=1xRC1DMWg9I</string>
+    <string name="link4">4. https://www.youtube.com/watch?v=IauxP5xgu_s&amp;list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ&amp;index=2</string>
+    <string name="link5">5. https://code.tutsplus.com/id/tutorials/code-an-image-gallery-android-app-with-glide--cms-28207</string>
+    <string name="link6">6. https://medium.com/@febriyanadifatma13021996/menjalankan-aplikasi-di-android-studio-menggunakan-usb-debugging-dan-emulator-dcb7f91e6fa</string>
+    <string name="link7">7. https://developer.android.com/reference/kotlin/androidx/packages</string>
+    <string name="title_activity_main2">MainActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
